@@ -73,7 +73,7 @@ All the rooms herein, are absolutely free. ATTACK!!
 - [X] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 - [X] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 - [X] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [X] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 - [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 - [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
